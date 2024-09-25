@@ -24,7 +24,7 @@ const Education = () => {
           />
           <ResumeCard
             title="Bachelore of Computer Application"
-            subTitle="Islamiah College (2019 - 2024)"
+            subTitle="Islamiah College (2019 - 2022)"
             result="8.0/10"
             des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
           />
